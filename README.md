@@ -1,0 +1,2 @@
+# wumpus
+juego del wumpus
